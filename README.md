@@ -1,5 +1,5 @@
 # Registro-profesores
-Registro de profes ausentes 
-Olmedo Agustin
-Nadina
-Uriel Zen
+* Registro de profes ausentes 
+* Olmedo Agustin
+* Nadina
+* Uriel Zen
