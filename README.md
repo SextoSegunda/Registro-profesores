@@ -1,5 +1,7 @@
 # Registro-profesores
 Registro de profes ausentes 
-Nadina
+Nadina Jauch
 Uriel Zen
-Juanbz
+Sebastian Degiusti
+Juan Borzi
+## Descripcion
