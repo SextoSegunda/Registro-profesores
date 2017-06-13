@@ -1,14 +1,17 @@
-# Registro-profesores
-Registro de profes ausentes 
 
-* Olmedo Agustin
-* Nadina
-* Uriel Zen
-* Juanbz
+<HTML>
+<HEAD>
+<TITLE>Registro-profesores</TITLE>
+</HEAD>
+<BODY>
+<FONT SIZE=6><FONT COLOR=81426E> Registro de profesores ausentes </FONT></FONT>
 
-Nadina Jauch
-Uriel Zen
-Sebastian Degiusti
-Juan Borzi
-## Descripcion
+<LI> Olmedo Agustin
+<LI> Nadina
+<LI> Uriel Zen
+<LI> Juanbz
+
+</BODY>
+</HTML>
+
 
