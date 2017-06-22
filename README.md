@@ -12,7 +12,7 @@
 <LI> Juanbz
 <LI> Marcos Flores
 
-<LI> Sebastian D
+<LI> Sebastián D
 
 </BODY>
 </HTML>
